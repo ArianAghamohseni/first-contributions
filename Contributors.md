@@ -7,6 +7,7 @@
 - [KryptoShrimp] (https://link3.to/ferreyros)
 - [Muhammad Ihtisham Alam Khan] (https://github.com/muhammadIhtishamKhan)
 - Ishita
+- [bigger_a]
 - [Antonio Zurita] (https://github.com/AntonioJZP86)
 - [Mohamed Essam] (https://github.com/mohamed-official/)
 - [Bikal Koju] ()
@@ -30,6 +31,7 @@
 - [Sameer Sharma](https://github.com/nawabsahab16))
 - [Dinesh-Das] (https://github.com/Dinesh-Das)
 - [Jonah-Ssegawa]
+- [bigger_a]
 - [Joey Lovato](https://github.com/JosephLovato)
 - [Perin-Mangukiya](https://github.com/Perin-Mangukiya)
 - [Feohr](https://github.com/Feohr)
