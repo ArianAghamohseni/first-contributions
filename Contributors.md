@@ -375,6 +375,7 @@ Adwai
 - [Lachlan Thornton] (https://github.com/LachThorn/)
 - [Natalie OC]  (https://github.com/ocnattie/)
 - [cx-olquinjica] (https://github.com/cx-olquinjica)
+- [Arash Moghadam] (https://github.com/ArashMoghadam81)
 - [Rohit Jain] (https://github.com/abcrohit)
 - [Anubhav Saxena](https://github.com/AnubhavSaxena3)
 - [Priya Aggarwal] (https://github.com/priyaaggarwal7)
